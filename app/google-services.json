@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1014362556680",
+    "firebase_url": "https://tp2-upload-firebase.firebaseio.com",
+    "project_id": "tp2-upload-firebase",
+    "storage_bucket": "tp2-upload-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014362556680:android:efd603e2143c2698",
+        "android_client_info": {
+          "package_name": "br.edu.infnet.pedrolopes.tp2uploadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014362556680-9b3jg0cii5tq744v6alskf42l3jslqig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBb5x6ipbcrwV0DFOLkPgsV1YD20QIO88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Upload to Firebase</string>
+    <string name="text_click_to_select">Clique Para Selecionar</string>
+    <string name="galery_image_content_description">Imagem da galeria para upload</string>
 </resources>
